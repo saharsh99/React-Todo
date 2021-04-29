@@ -1,2 +1,2 @@
 # React-Todo
-A todo list app using 
+A todo list app using Reactjs
